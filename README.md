@@ -71,8 +71,10 @@
    <img src="https://vercel.app" alt="Sai's GitHub Stats" />
    <img src="https://vercel.app" alt="Top Languages" />
 </p>
+
 ---
 ![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Singarisaikumar)
+
 ---
 
 
