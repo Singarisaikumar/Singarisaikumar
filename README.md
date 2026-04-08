@@ -16,7 +16,6 @@ I am a results-driven DevOps Engineer with **4 years of hands-on experience** au
 
 ### 🛠️ Tech Stack & Skills
 
-| Category | Tools & Technologies |
 | :--- | :--- |
 |🤖 *Cloud Platforms* | AWS (EKS, EC2, S3, RDS, Lambda, IAM) |
 |☁️ *Containers* | Kubernetes (EKS), Docker, Helm, HPA/VPA |
