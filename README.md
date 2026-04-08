@@ -74,10 +74,6 @@
 
 
 
-
-
-
-
 ---
 ### 📊 GitHub Stats & Activity
 <p align="center">
@@ -85,17 +81,4 @@
   <img src="https://vercel.app" alt="Top Languages" />
 </p>
 ---
-[![visitcount](https://visitcount.itsvg.in/api?id=Singarisaikumar&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-
-
-
-
-
-
-
-
-
 
