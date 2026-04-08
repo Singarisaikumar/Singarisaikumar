@@ -44,7 +44,7 @@ I am a results-driven DevOps Engineer with **4 years of hands-on experience** au
 #### ☁️ Cloud & Orchestration
 ![AWS](https://shields.io)
 ![Kubernetes](https://shields.io)
-![Docker]https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png
+![Docker](https://shields.io)
 ![Helm](https://shields.io)
 
 #### 🏗️ Infrastructure as Code & Configuration
