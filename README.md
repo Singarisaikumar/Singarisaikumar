@@ -85,7 +85,3 @@
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Singarisaikumar&type=languages)
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Singarisaikumar&type=contributions)
 ![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Singarisaikumar&type=top-repos)
-
----
-
-
