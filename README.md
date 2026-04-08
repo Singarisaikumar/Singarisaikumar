@@ -16,17 +16,17 @@ I am a results-driven DevOps Engineer with **4 years of hands-on experience** au
 
 ### 🛠️ Tech Stack & Skills
 
-**🤖 Cloud Platforms**  AWS (EKS, EC2, S3, RDS, Lambda, IAM) 
+|**🤖 Cloud Platforms** | AWS (EKS, EC2, S3, RDS, Lambda, IAM) |
 
-**☁️ Containers**  Kubernetes (EKS), Docker, Helm, HPA/VPA 
+|**☁️ Containers** | Kubernetes (EKS), Docker, Helm, HPA/VPA |
 
-**🛠️ IaC & Config**  Terraform, Ansible, Shell Scripting, Python 
+|**🛠️ IaC & Config** | Terraform, Ansible, Shell Scripting, Python |
 
-**🚀 CI/CD & DevOps**  Jenkins, GitHub Actions, GitOps, SonarQube, Nexus 
+|**🚀 CI/CD & DevOps** | Jenkins, GitHub Actions, GitOps, SonarQube, Nexus |
 
-**📈 Observability**  Prometheus, Grafana, ELK Stack 
+|**📈 Observability** | Prometheus, Grafana, ELK Stack |
 
-**🧪 Networking**  VPC, Security Groups, ALB/NLB, NAT Gateway, Route 53 
+|**🧪 Networking** | VPC, Security Groups, ALB/NLB, NAT Gateway, Route 53 |
 
 ---
 
