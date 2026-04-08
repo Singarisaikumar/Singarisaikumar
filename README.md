@@ -51,7 +51,6 @@ I am a results-driven DevOps Engineer with **4 years of hands-on experience** au
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 	
 #### 🔄 CI/CD & Automation
@@ -63,13 +62,23 @@ I am a results-driven DevOps Engineer with **4 years of hands-on experience** au
 #### 📈 Monitoring & Logging
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![ELK Stack](https://shields.io)
 
 ---
 *“Currently exploring new DevOps / SRE / Platform Engineering opportunities — India or remote globally.”*
 
 ---
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
@@ -82,16 +91,6 @@ I am a results-driven DevOps Engineer with **4 years of hands-on experience** au
 [![](https://visitcount.itsvg.in/api?id=Singarisaikumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sai kumar singari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srv.nagasaikumar@gmail.com) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Singarisaikumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Singarisaikumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Singarisaikumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 
 
