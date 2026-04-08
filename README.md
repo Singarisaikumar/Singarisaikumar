@@ -43,8 +43,8 @@ I am a results-driven DevOps Engineer with 4+ years of hands-on experience autom
 ---
 
 ### 📫 Connect with Me
-*   💼 **LinkedIn:** (mailto:srv.nagasaikumar@gmail.com)
-*   📧 **Email:** (https://www.linkedin.com/in/saikumarsingari/) 
+*   💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saikumarsingari)
+*   📧  [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srv.nagasaikumar@gmail.com) 
 *   📍 **Location:** Greater Hyderabad Area
 
 ---
