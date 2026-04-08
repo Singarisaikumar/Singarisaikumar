@@ -36,8 +36,10 @@
 
 ### 📫 Connect with Me
 *   💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saikumarsingari)
-*   📧  [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srv.nagasaikumar@gmail.com)
-*   [![Location](https://shields.io/Badge/location-7101463?location&logoColor=FFCC00)](https://maps.app.goo.gl/y3hF5rYd37sYm1K99)
+*   📧 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srv.nagasaikumar@gmail.com)
+*   📍 [![Location](https://img.shields.io/badge/location-&#128205?location&logoColor=FFCC00)](https://maps.app.goo.gl/y3hF5rYd37sYm1K99)
+*   📍 [![Location](https://shields.io)](https://google.com)
+
 ---
 ### ⚙️ Skills Showcase
 
