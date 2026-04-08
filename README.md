@@ -1,7 +1,7 @@
 # Hi, I'm Sai kumar Singari 👋
 **DevOps Engineer | Infrastructure Automation | Kubernetes Enthusiast**
 
- I am a results-driven DevOps Engineer with **4 years of hands-on experience** automating cloud infrastructure, building CI/CD pipelines, and managing Kubernetes workloads at enterprise scale. I specialize in   
+ I am a results-driven DevOps Engineer with **4 years of hands-on experience** automating cloud infrastructure, building CI/CD pipelines, and managing Kubernetes workloads at enterprise scale. I specialize in 
  reducing deployment latency and maintaining high-availability production environments.
 
 ---
