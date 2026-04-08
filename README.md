@@ -62,7 +62,8 @@
 #### 📈 Monitoring & Logging
  ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
- ![ELK Stack](https://shields.io)
+ ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+
 
 ---
  *“Currently exploring new DevOps / SRE / Platform Engineering opportunities — India or remote globally.”*
