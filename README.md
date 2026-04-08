@@ -67,13 +67,11 @@
 
 ---
 ### 📊 GitHub Stats & Activity
-<p align="center">
-   <img src="https://vercel.app" alt="Sai's GitHub Stats" />
-   <img src="https://vercel.app" alt="Top Languages" />
-</p>
 
----
 ![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Singarisaikumar)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Singarisaikumar&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Singarisaikumar&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Singarisaikumar&type=top-repos)
 
 ---
 
