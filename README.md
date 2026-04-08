@@ -37,7 +37,8 @@
 ### 📫 Connect with Me
 *   💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saikumarsingari)
 *   📧  [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srv.nagasaikumar@gmail.com)
-*   📍 ![Location][![Location](https://shields.io)](https://openstreetmap.org)Hyderabad  
+*   📍 ![Location])Hyderabad
+*   [![Location](https://shields.io)](https://openstreetmap.org)  
 ---
 ### ⚙️ Skills Showcase
 
