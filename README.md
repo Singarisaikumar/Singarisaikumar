@@ -20,7 +20,7 @@ I am a results-driven DevOps Engineer with **4 years of hands-on experience** au
 **☁️ Containers**  Kubernetes (EKS), Docker, Helm, HPA/VPA 
 **🛠️ IaC & Config**  Terraform, Ansible, Shell Scripting, Python 
 **🚀 CI/CD & DevOps**  Jenkins, GitHub Actions, GitOps, SonarQube, Nexus 
-**📈 Observability**  Prometheus, Grafana, ELK Stack |
+**📈 Observability**  Prometheus, Grafana, ELK Stack 
 **🧪 Networking**  VPC, Security Groups, ALB/NLB, NAT Gateway, Route 53 
 
 ---
