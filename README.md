@@ -68,24 +68,18 @@
 ---
 
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ### 📊 GitHub Stats & Activity
 
 ![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Singarisaikumar)
