@@ -62,13 +62,13 @@
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 
 ---
-     *“Currently exploring new DevOps / SRE / Platform Engineering opportunities — India or remote globally.”*
+*“Currently exploring new DevOps / SRE / Platform Engineering opportunities — India or remote globally.”*
 
 ---
 ### 📊 GitHub Stats & Activity
-    <p align="center">
-      <img src="https://vercel.app" alt="Sai's GitHub Stats" />
-      <img src="https://vercel.app" alt="Top Languages" />
-    </p>
+<p align="center">
+   <img src="https://vercel.app" alt="Sai's GitHub Stats" />
+   <img src="https://vercel.app" alt="Top Languages" />
+</p>
 ---
 
