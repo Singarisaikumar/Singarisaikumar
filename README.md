@@ -29,8 +29,8 @@
 ---
 
 ### 🏆 Recognitions
-*   **Best Performer Award** – AltaGas Project, TCS
-*   **On-The-Spot Award** – PepsiCo Project, TCS
+*   **Special Achievement Award** – AltaGas Project, TCS
+*   **On-The-Spot Award** – AltGas Project, TCS
 
 ---
 
