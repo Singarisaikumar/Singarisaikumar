@@ -7,11 +7,11 @@
 ---
 
 ### 🚀 Impact & Achievements
-*   **Faster Deployments:** Increased deployment frequency by **40%** via Jenkins and GitHub Actions.
+*   **Faster Deployments:** Increased deployment frequency by **40%** via Jenkins.
 *  **Infrastructure Efficiency:** Reduced provisioning time by **60%** using Terraform modules and IaC automation.
 *   **Optimized Containers:** Reduced Docker image sizes by **40%**, accelerating build speeds across environments.
 *   **Operational Excellence:** Automated 15+ routine tasks, cutting manual intervention by **50%**.
-*   **High Availability:** Maintained **99.99% uptime** across production workloads via Prometheus and Grafana.
+*   **High Availability:** Maintained **99.99% uptime** across production workloads via Prometheus, Grafana and ELK Stack.
 
 ---
 
@@ -22,7 +22,7 @@
 |🤖 *Cloud Platforms* | AWS (EKS, EC2, S3, RDS, Lambda, IAM) |
 |☁️ *Containers* | Kubernetes (EKS), Docker, Helm, HPA/VPA |
 |🛠️*IaC & Config* | Terraform, Ansible, Shell Scripting, Python |
-|🚀*CI/CD & DevOps* | Jenkins, GitHub Actions, GitOps, SonarQube, Nexus |
+|🚀*CI/CD & DevOps* | Jenkins, GitOps, SonarQube, Nexus |
 |📈*Observability* | Prometheus, Grafana, ELK Stack |
 |🧪*Networking* | VPC, Security Groups, ALB/NLB, NAT Gateway, Route 53 |
 
